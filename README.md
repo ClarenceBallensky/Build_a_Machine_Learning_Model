@@ -1,4 +1,7 @@
 # "Build a Machine Learning Model" Projects
+Projects I completed for Codecademy's "Build a Machine Learning Model" skillpath. 
+
+## How to Run
 ### Required software:
 - Jupyter Notebook
 - Python 3
