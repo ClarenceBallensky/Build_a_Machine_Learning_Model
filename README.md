@@ -1,2 +1,2 @@
-# Build_a_Machine_Learning_Model
+# "Build a Machine Learning Model" Projects
 
